@@ -1,0 +1,33 @@
+<resources>
+
+  <string name="start">Empezar</string>
+  <!--<string name="idle">Idle</string>-->
+  <string name="stop">Terminar</string>
+  <string name="reset">Recomenzar</string>
+
+  <string name="title_break_long">Descanso largo</string>
+  <string name="title_pomodoro_no">Trabajando en el pomodoro #%d</string>
+  <string name="title_break_short">Descanso corto</string>
+  <string name="title_none">Empezar</string>
+
+  <string name="title_short_pomodoro">Concentrate</string>
+  <string name="title_short_break">Descanso</string>
+
+  <string name="title_finished">Terminado</string>
+
+  <string name="message_break_long">Ahora toma un descanso largo. Te lo mereces!</string>
+  <string name="message_pomodoro_no">Felicitaciones! Ahora empieza el pomodoro #%d</string>
+  <string name="message_break_short">Ahora toma un descanso corto.</string>
+  <string name="message_none_first">Empezemos a trabajar!</string>
+  <string name="message_none">Hiciste %d pomodoros hoy.</string>
+
+  <string name="time_left_less_than_minute"><![CDATA[< 1 min]]></string>
+  <plurals name="time_left_minutes">
+    <item quantity="one">1 min</item>
+    <item quantity="other">%d mins</item>
+  </plurals>
+
+  <string name="cd_start_stop_button">Empezar/Terminar pomodoro</string>
+  <string name="cd_start_pomodoro">Empezar pomodoro</string>
+  <string name="cd_stop_pomodoro">Terminar pomodoro</string>
+</resources>

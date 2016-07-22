@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pomodoro</string>
+
+    <string name="activity_type_label">Tipo de actividad:</string>
+    <string name="start">Comenzar</string>
+    <string name="stop">Terminar</string>
+</resources>

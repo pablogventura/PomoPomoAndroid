@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">Pomodoro Wear</string>
+
+  <string name="start_working">Trabajando</string>
+  <string name="title">Hola notificacion!</string>
+  <string name="title_activity_pomodoro_notification">PomodoroNotificationActivity</string>
+
+  <string name="hello_world">Hola mundo!</string>
+  <string name="action_settings">Ajustes</string>
+</resources>
