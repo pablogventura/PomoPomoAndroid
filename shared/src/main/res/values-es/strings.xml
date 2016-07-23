@@ -18,7 +18,7 @@
   <string name="message_break_long">Ahora toma un descanso largo. Te lo mereces!</string>
   <string name="message_pomodoro_no">Felicitaciones! Ahora empieza el pomodoro #%d</string>
   <string name="message_break_short">Ahora toma un descanso corto.</string>
-  <string name="message_none_first">Empezemos a trabajar!</string>
+  <string name="message_none_first">Empecemos a trabajar!</string>
   <string name="message_none">Hiciste %d pomodoros hoy.</string>
 
   <string name="time_left_less_than_minute"><![CDATA[< 1 min]]></string>
