@@ -9,10 +9,10 @@
   <string name="title_break_long">Descanso largo</string>
   <string name="title_pomodoro_no">Trabajando en el pomodoro #%d</string>
   <string name="title_break_short">Descanso corto</string>
-  <string name="title_none">Comenzar</string>
+  <string name="title_none">Empezar</string>
 
   <string name="title_short_pomodoro">¡Concéntrate!</string>
-  <string name="title_short_break">Descansando</string>
+  <string name="title_short_break">Descanso</string>
 
   <string name="title_finished">Terminado</string>
 
@@ -20,7 +20,11 @@
   <string name="message_pomodoro_no">¡Muy bien! Ahora comienza el pomodoro #%d</string>
   <string name="message_break_short">Ahora toma un descanso corto.</string>
   <string name="message_none_first">¡Empecemos a trabajar!</string>
-  <string name="message_none">Hiciste %d pomodoros hoy.</string>
+  <plurals name="message_none">
+    <item quantity="one">Hiciste un pomodoro hoy.</item>
+    <item quantity="other">Hiciste %d pomodoros hoy.</item>
+  </plurals>
+
 
   <string name="time_left_less_than_minute"><![CDATA[< 1 min]]></string>
   <plurals name="time_left_minutes">

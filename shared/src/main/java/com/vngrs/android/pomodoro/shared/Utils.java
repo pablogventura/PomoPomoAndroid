@@ -130,7 +130,7 @@ public class Utils {
             case NONE:
                 return pomodorosDone == 0
                         ? context.getString(R.string.message_none_first)
-                        : context.getString(R.string.message_none, pomodorosDone);
+                        : context.getResources().getQuantityString(R.plurals.message_none, pomodorosDone, pomodorosDone);
             default:
                 throw new IllegalStateException("unsupported activityType " + pomodoroMaster.getActivityType());
         }
